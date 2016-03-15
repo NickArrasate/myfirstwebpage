@@ -1,0 +1,14 @@
+h1 {
+color: red;
+text-align: center;
+font-style:oblique;
+font-weight: bold;
+font-family: fantasy;
+font-size: 20;
+line-height:normal;
+
+}
+
+p {
+  text-align: center;
+}
